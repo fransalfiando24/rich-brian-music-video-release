@@ -1,4 +1,3 @@
-# rich-brian-music-video-release
 <h3>"Music Video Released" Website Design</h3> <br>
 Make it using Javascript with GSAP Library <br>
 For preview : https://fransalfiando24.github.io/rich-brian-music-video-release/ <br>
